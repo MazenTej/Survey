@@ -28,6 +28,7 @@ The application uses several design patterns (e.g., Singleton, Factory, Strategy
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/survey-test-app.git
+   git clone https://github.com/MazenTej/Survey.git
+   Run Main.java
   
 
